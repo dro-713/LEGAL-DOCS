@@ -8,7 +8,7 @@
 
 Road Signs EE is developed and provided by **Evgeny Drobyshev**, Estonian registry code **17598119**, operating under the studio/brand name **Base Hangar Works** ("we," "us," "our"). Base Hangar Works is the public studio/brand name; the registered operator is Evgeny Drobyshev. This policy explains what information Road Signs EE collects, why, and what rights you have.
 
-Questions about this policy: **info@basehangarworks.com**
+Questions about this policy: **info@basehangarworks.com** or **info@bhw.ee**
 
 ## What information we collect
 
@@ -64,7 +64,7 @@ If you're in the EU/EEA, you have rights under the General Data Protection Regul
 - Data portability
 - Lodge a complaint with your national authority — in Estonia, the [Estonian Data Protection Inspectorate](https://www.aki.ee/en)
 
-Given how little personal information Road Signs EE actually collects, most of these will have limited practical scope here — but reach out to **info@basehangarworks.com** with any request.
+Given how little personal information Road Signs EE actually collects, most of these will have limited practical scope here — but reach out to **info@basehangarworks.com** or **info@bhw.ee** with any request.
 
 ## Changes to this policy
 
@@ -75,4 +75,4 @@ We may update this policy as the app evolves. If we make a material change, the 
 **Evgeny Drobyshev**  
 Estonian registry code: **17598119**  
 Studio/brand: **Base Hangar Works**  
-Email: **info@basehangarworks.com**
+Email: **info@basehangarworks.com** (**info@bhw.ee**)
