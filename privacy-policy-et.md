@@ -8,7 +8,7 @@
 
 Road Signs EE arendaja ja pakkuja on **Evgeny Drobyshev**, Eesti registrikood **17598119**, kes tegutseb stuudio-/brändinime **Base Hangar Works** all („meie“). Base Hangar Works on avalik stuudio-/brändinimi; registreeritud ettevõtja on Evgeny Drobyshev. Käesolev poliitika selgitab, millist teavet Road Signs EE kogub, miks, ja milliseid õigusi teil on.
 
-Küsimuste korral selle poliitika kohta: **info@basehangarworks.com**
+Küsimuste korral selle poliitika kohta: **info@basehangarworks.com** või **info@bhw.ee**
 
 ## Millist teavet me kogume
 
@@ -92,7 +92,7 @@ Kui asute EL-is/EMP-s, on teil isikuandmete kaitse üldmääruse (GDPR) alusel
 
 Arvestades, kui vähe isikuandmeid Road Signs EE tegelikult kogub, on enamikul neist
 õigustest siin piiratud praktiline kohaldatavus — kuid võtke meiega julgelt ühendust
-aadressil **info@basehangarworks.com** iga küsimuse või taotlusega.
+aadressil **info@basehangarworks.com** või **info@bhw.ee** iga küsimuse või taotlusega.
 
 ## Muudatused käesolevas poliitikas
 
@@ -106,4 +106,4 @@ vaikimisi.
 **Evgeny Drobyshev**  
 Eesti registrikood: **17598119**  
 Stuudio/bränd: **Base Hangar Works**  
-E-post: **info@basehangarworks.com**
+E-post: **info@basehangarworks.com** (**info@bhw.ee**)
