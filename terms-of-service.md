@@ -79,7 +79,7 @@ The App doesn't require an account.
   immediately-delivered digital content under EU Directive 2011/83/EU.
 - Beyond Google's own refund channel and any consumer-protection right that can't be
   waived, we don't separately guarantee refunds — but contact us at
-  **info@basehangarworks.com** if something has genuinely gone wrong, and we'll
+  **info@basehangarworks.com** or **info@bhw.ee** if something has genuinely gone wrong, and we'll
   consider it in good faith.
 
 ## 6. Intellectual property
@@ -134,4 +134,4 @@ residence grants you rights that can't be waived.
 **Evgeny Drobyshev**  
 Estonian registry code: **17598119**  
 Studio/brand: **Base Hangar Works**  
-Email: **info@basehangarworks.com**
+Email: **info@basehangarworks.com** (**info@bhw.ee**)
