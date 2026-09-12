@@ -1,14 +1,14 @@
 # Kasutustingimused — Road Signs EE
 
 **Jõustumiskuupäev:** 18. juulil 2026
-**Viimati uuendatud:** 18. juulil 2026
-**Tingimuste versioon:** 1
+**Viimati uuendatud:** 12. septembril 2026
+**Tingimuste versioon:** 2
 
 Käesolevad kasutustingimused („tingimused") reguleerivad mobiilirakenduse Road Signs
-EE („rakendus") kasutamist. Rakendust pakub Evgeny Drobyshev, kes tegutseb nime
-**Base Hangar Works** all („meie"). Rakenduse allalaadimise, installimise või
-kasutamisega nõustute nende tingimustega. Kui te tingimustega ei nõustu, palume
-rakendust mitte kasutada.
+EE („rakendus") kasutamist. Rakendust pakub **Evgeny Drobyshev**, Eesti registrikood
+**17598119**, kes tegutseb stuudio-/brändinime **Base Hangar Works** all („meie“).
+Rakenduse allalaadimise, installimise või kasutamisega nõustute nende tingimustega.
+Kui te tingimustega ei nõustu, palume rakendust mitte kasutada.
 
 ## 1. Mis Road Signs EE on — ja mis see ei ole
 
@@ -79,7 +79,7 @@ Rakenduse kasutamiseks ei ole kontot vaja.
   digitaalse sisu tavapärase käsitlusega ELi direktiivi 2011/83/EL alusel.
 - Peale Google'i enda tagasimaksekanali ja tarbijakaitseõiguste, millest ei saa
   loobuda, ei garanteeri me eraldi tagasimakseid. Kui midagi on tõepoolest valesti
-  läinud, võtke meiega ühendust aadressil **basehangarworks@gmail.com** ja me kaalume
+  läinud, võtke meiega ühendust aadressil **info@basehangarworks.com** ja me kaalume
   teie taotlust heas usus.
 
 ## 6. Intellektuaalomand
@@ -134,4 +134,7 @@ millest ei saa loobuda.
 
 ## 12. Kontakt
 
-**basehangarworks@gmail.com**
+**Evgeny Drobyshev**  
+Eesti registrikood: **17598119**  
+Stuudio/bränd: **Base Hangar Works**  
+E-post: **info@basehangarworks.com**
