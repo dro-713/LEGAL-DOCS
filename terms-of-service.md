@@ -1,13 +1,14 @@
 # Terms of Service — Road Signs EE
 
 **Effective date:** July 18, 2026
-**Last updated:** July 18, 2026
-**Policy version:** 1
+**Last updated:** September 12, 2026
+**Policy version:** 2
 
 These Terms of Service ("Terms") govern your use of the Road Signs EE mobile
-application ("the App"), provided by Evgeny Drobyshev, operating as **Base Hangar
-Works** ("we," "us," "our"). By downloading, installing, or using the App, you agree
-to these Terms. If you don't agree, please don't use the App.
+application ("the App"), provided by **Evgeny Drobyshev**, Estonian registry code
+**17598119**, operating under the studio/brand name **Base Hangar Works** ("we,"
+"us," "our"). By downloading, installing, or using the App, you agree to these
+Terms. If you don't agree, please don't use the App.
 
 ## 1. What Road Signs EE is — and isn't
 
@@ -78,7 +79,7 @@ The App doesn't require an account.
   immediately-delivered digital content under EU Directive 2011/83/EU.
 - Beyond Google's own refund channel and any consumer-protection right that can't be
   waived, we don't separately guarantee refunds — but contact us at
-  **basehangarworks@gmail.com** if something has genuinely gone wrong, and we'll
+  **info@basehangarworks.com** if something has genuinely gone wrong, and we'll
   consider it in good faith.
 
 ## 6. Intellectual property
@@ -130,4 +131,7 @@ residence grants you rights that can't be waived.
 
 ## 12. Contact
 
-**basehangarworks@gmail.com**
+**Evgeny Drobyshev**  
+Estonian registry code: **17598119**  
+Studio/brand: **Base Hangar Works**  
+Email: **info@basehangarworks.com**
