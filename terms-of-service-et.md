@@ -79,7 +79,7 @@ Rakenduse kasutamiseks ei ole kontot vaja.
   digitaalse sisu tavapärase käsitlusega ELi direktiivi 2011/83/EL alusel.
 - Peale Google'i enda tagasimaksekanali ja tarbijakaitseõiguste, millest ei saa
   loobuda, ei garanteeri me eraldi tagasimakseid. Kui midagi on tõepoolest valesti
-  läinud, võtke meiega ühendust aadressil **info@basehangarworks.com** ja me kaalume
+  läinud, võtke meiega ühendust aadressil **info@basehangarworks.com** või **info@bhw.ee** ja me kaalume
   teie taotlust heas usus.
 
 ## 6. Intellektuaalomand
@@ -137,4 +137,4 @@ millest ei saa loobuda.
 **Evgeny Drobyshev**  
 Eesti registrikood: **17598119**  
 Stuudio/bränd: **Base Hangar Works**  
-E-post: **info@basehangarworks.com**
+E-post: **info@basehangarworks.com** (**info@bhw.ee**)
