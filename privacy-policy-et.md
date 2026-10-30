@@ -1,8 +1,8 @@
 # Privaatsuspoliitika — Road Signs EE
 
-**Jõustumiskuupäev:** 18. juulil 2026
-**Viimati uuendatud:** 12. septembril 2026
-**Poliitika versioon:** 2
+**Jõustumiskuupäev:** 30. oktoobril 2026
+**Viimati uuendatud:** 30. oktoobril 2026
+**Poliitika versioon:** 3
 
 ## Kes me oleme
 
@@ -12,66 +12,43 @@ Küsimuste korral selle poliitika kohta: **info@basehangarworks.com** või **inf
 
 ## Millist teavet me kogume
 
-Road Signs EE on loodud koguma võimalikult vähe teavet.
+Road Signs EE on loodud koguma võimalikult vähe teavet. Liiklusmärkide õppimiseks ei nõua rakendus sisselogimist ega küsi juurdepääsu kontaktidele, fotodele, asukohale, kaamerale või mikrofonile.
 
-**Me ei tee järgmist:**
-- Ei nõua ega toeta kasutajakontosid ega sisselogimist
-- Ei kasuta reklaamivõrgustikke ega kolmandate osapoolte analüütika-/jälgimistarkvara
-- Ei kogu teie nime, füüsilist aadressi ega ühtegi riiklikku isikutunnistuse numbrit
-- Ei pääse ligi teie kontaktidele, fotodele, asukohale, kaamerale ega mikrofonile
-
-**Salvestatakse ainult teie seadmesse, ei saadeta kunagi meile:**
-Teie lemmikmärgid, viktoriinide ajalugu/tulemused ja rakenduse eelistused (teema,
-keel) elavad ainult teie seadmes. Meil ei ole sellele teabele juurdepääsu ja seda ei
-edastata kunagi kuhugi.
+**Kohalik edenemine ja eelistused:**
+Rakendus salvestab lemmikmärgid, viktoriinide ajaloo/tulemused ja eelistused (teema, keel) kohalikult.
 
 **Saadetakse meie taustsüsteemi:**
-- Selleks, et teha kindlaks, millised märgikategooriad on tasuta, ja näidata teile
-  meie partnerkoolide nimekirja, toob rakendus praeguse konfiguratsiooni meie
-  serverist. See päring ei sisalda ühtegi teid isiklikult tuvastavat teavet — ainult
-  tehnilise päringu praeguse teabe saamiseks.
-- Kui sisestate partneri sooduskoodi, saadetakse see kood meie serverisse, et
-  kontrollida selle kehtivust. Salvestame kasutatud koodi, ajutise seansi
-  identifikaatori ja ajatempli — mitte midagi, mis teid isiklikult tuvastaks.
-- Kui puudutate partnerkooli e-posti, telefoni või veebisaidi linki, logime selle
-  tegevuse anonüümse loenduse (millise kooli, millise tegevuse kohta), et teada
-  saada, kas partnerlust reaalselt kasutatakse. See ei ole kunagi seotud teiega
-  isiklikult ega sisalda seadme ega kasutaja identifikaatorit.
+Tasuta märgikategooriate määramiseks ja partnerkoolide loendi kuvamiseks küsib rakendus konfiguratsiooni meie Google Apps Scripti taustsüsteemist. Koolikoodide valideerimine ja asjakohane sündmuste edastamine kasutavad endiselt Google Sheetsi/Apps Scripti.
+
+Rakendus ei nõua kliendikontot ega küsi liiklusmärkide õppimiseks sinu nime või isikut tõendavat dokumenti. Kui võtad meiega ühendust, võib sõnum sisaldada sinu nime, e-posti aadressi ning ostu või abipalve andmeid. Senine koolikoodi teenus salvestab koodi, ajutise juhusliku seansitunnuse ning asjakohased loomise, aegumise või sündmuse ajad. Neid seansi- ja sündmuskirjeid saab omavahel seostada ning käsitleme neid pseudonüümsete, mitte kindlasti anonüümsete andmetena. 45-minutilise valideerimisaja lõpp ei kustuta salvestatud rida. Partnerlingi sündmus võib sisaldada kooli, toimingut ja sündmuse aega; koondaruanne ei tähenda, et salvestati ainult koondandmed.
 
 **Ostud:**
-Kui avate täieliku juurdepääsu, käsitleb ostu täielikult **Google Play Billing**. Me
-ei näe ega salvesta kunagi teie makseandmeid — Google töötleb seda otse vastavalt
-oma [privaatsuspoliitikale](https://policies.google.com/privacy). Saame teada vaid
-selle, et ost toimus, mitte kunagi ühtegi finantsdetaili.
+Androidi oste töötleb Google Play. Rakendus kasutab ligipääsu avamiseks või taastamiseks Google Play ostuandmeid, näiteks ostutunnust, toote tunnust ja ostu olekut. Ostutoe ja tagasimaksete jaoks võime vaadata ka meile Play Console’is kättesaadavaid tellimuse andmeid, näiteks tellimuse numbrit, ostukuupäeva, summat, valuutat ning makse või tagasimakse olekut. Me ei saa sinu maksekaardi täielikke andmeid. See ei tähenda, et saaksime automaatselt sinu Google’i konto e-posti aadressi.
+
+Vanemad rakenduse versioonid võivad saata senisesse teenusesse kontrollimiseks ka Google Play ostutunnuse, toote tunnuse ja valikulise kooliseansi tunnuse ning edastada ligipääsu avamise ja ostuga seotud sündmusi. Need päringud on eraldi rakenduse Play Billingu kaudu antavast ja taastatavast tasulisest ligipääsust.
 
 **Tehniline/võrguteave:**
-Nagu iga võrku kasutav rakendus, näeb ka meie taustsüsteem (mis töötab Google'i Apps
-Scripti platvormil) teie seadme IP-aadressi tavapärase ja vältimatu osana igast
-veebipäringust. Me ei logi, salvesta ega kasuta seda eraldi teie tuvastamiseks.
+Päringud jõuavad Google’i taristusse, mis võib oma tingimuste alusel töödelda IP-aadresse ning muid võrgu- ja turvametaandmeid. See ei tähenda, et Apps Scripti käitleja saab või salvestab kliendi IP-aadressi.
+
+Kui soovid eemaldada seadmesse salvestatud edenemise ja eelistused, kustuta rakenduse andmed Androidi seadetes. Ainult desinstallimine ei pruugi eemaldada koopiaid, mis taastatakse Androidi või Google’i varukoopiast. Google võib oma tingimuste alusel töödelda Androidi ja Play stabiilsus- ning tehnilisi andmeid; arendaja võib saada diagnostikat Play Console’i kaudu ulatuses, milles teenus seda võimaldab. See erineb rakenduse enda koodi või SDK-de edastatavatest andmetest.
 
 ## Miks me seda teavet töötleme
 
-- Et võimaldada teil kasutada partnerite sooduskoode ja avada täielikku juurdepääsu
-- Et näidata teile täpset ja ajakohast kategooria- ja partneriteavet
-- Et mõista ainult koondandmete tasandil, kas meie partnerprogrammi reaalselt
-  kasutatakse — mitte kunagi üksikisiku tasandil
+- Partnerkoodide kontrollimiseks ning ligipääsu andmiseks või taastamiseks, sealhulgas Google Play ostutoe ja tagasimaksete jaoks
+- Ajakohase kategooria- ja partneriteabe kuvamiseks
+- Partnerprogrammi kasutuse hindamiseks; koondnäitajad võivad põhineda ajatempliga ja seostatavatel kirjetel
+- Abi- ja privaatsustaotluste käsitlemiseks
 
 ## Kellega me teavet jagame
 
-- **Google** — taustsüsteemi majutuse (Google Sheets/Apps Script) ja maksetöötluse
-  (Google Play Billing) jaoks. Google'i infrastruktuuri kaudu liikuvat teavet
-  reguleerib [Google'i privaatsuspoliitika](https://policies.google.com/privacy).
-- Me ei müü, rendi ega jaga teavet reklaamijate, andmemaaklerite ega kellegi muuga.
+- **Google** — taustsüsteemi majutus (Google Sheets/Apps Script), Google Play Billing ja platvormiteenused vastavalt [Google’i privaatsuspoliitikale](https://policies.google.com/privacy). Abikirjavahetust käsitleme oma e-posti teenuse Zoho Mail kaudu.
+- Me ei müü ega rendi teavet reklaamijatele või andmemaakleritele.
 
 ## Andmete säilitamine
 
-- Sooduskoodide kontrollid ja anonüümsed puudutuste loendused säilitatakse praegu
-  tähtajatult partnerluse jälgimise eesmärgil. Kuna ükski neist ei tuvasta teid, ei
-  ole meil praktilist võimalust eraldada konkreetselt "teie" kirjet — kuid võite
-  meiega alati ühendust võtta, kui teil on muresid.
-- Teie seadmesse salvestatud andmed (lemmikud, viktoriinide ajalugu, eelistused)
-  säilivad kuni rakenduse desinstallimiseni või andmete kustutamiseni seadme sätete
-  kaudu — see on täielikult teie enda kontrolli all.
+Seostatavate varasemate seansi- ja sündmuskirjete säilitamise reegel on üks aasta loomisest või sündmusest; tähtaja ületanud kirjeid käsitletakse omaniku igakuises ülevaatuses, arvestades lahendamata kohustusi. Isikustamata koondnäitajaid võib säilitada.
+
+See on vastu võetud reegel, mitte kinnitus, et varasemad read, logid või varukoopiad on juba eemaldatud. Seansi aegumine ei kustuta salvestatud kirjeid. Ostutõendeid ja abikirjeid säilitatakse ligipääsu, abi, lahendamata kohustuste ja kohaldatavate õiguslike säilitamiskohustuste jaoks vajalikus ulatuses; kustutamistaotlus ei kustuta andmeid, mida tuleb õiguspäraselt säilitada.
 
 ## Laste privaatsus
 
@@ -90,16 +67,15 @@ Kui asute EL-is/EMP-s, on teil isikuandmete kaitse üldmääruse (GDPR) alusel
 - Esitada kaebus oma riigi ametiasutusele — Eestis
   [Andmekaitse Inspektsioon](https://www.aki.ee/et)
 
-Arvestades, kui vähe isikuandmeid Road Signs EE tegelikult kogub, on enamikul neist
-õigustest siin piiratud praktiline kohaldatavus — kuid võtke meiega julgelt ühendust
-aadressil **info@basehangarworks.com** või **info@bhw.ee** iga küsimuse või taotlusega.
+Juurdepääsu, parandamise, kustutamise või muu kohaldatava privaatsusõiguse kasutamiseks kirjuta **info@basehangarworks.com** või **info@bhw.ee**. Ulatus ja tulemus sõltuvad meie valduses olevast teabest ning kohaldatavatest õiguslikest kohustustest.
+
+## Andmete kustutamise taotlused
+
+Kustutamist saad taotleda e-postiga [info@basehangarworks.com](mailto:info@basehangarworks.com); teema **Road Signs EE — Data Deletion Request** on valikuline. Kontrolli ja võimalike ligipääsu või taastamise tagajärgede kohta vaata lehte [Road Signs EE andmete kustutamine](https://basehangarworks.com/et/apps/road-signs-ee/data-deletion/). Taotlus ei kinnita kustutamist: selgitame, mida saab eemaldada, mida tuleb säilitada ja miks. Google’i kontrollitavate Play andmete puhul võib olla vaja eraldi taotlust Google’ile.
 
 ## Muudatused käesolevas poliitikas
 
-Võime seda privaatsuspoliitikat aja jooksul uuendada — näiteks uute funktsioonide
-lisandumisel. Kui teeme olulise muudatuse, palub rakendus teil järgmisel avamisel
-uuendatud poliitika üle vaadata ja sellega nõustuda, mitte ei muuda tingimusi
-vaikimisi.
+Võime poliitikat rakenduse arenedes uuendada. Olulise muudatuse korral palub rakendus avaldatud uuenduse üle vaadata ja vastu võtta järgmisel käivitamisel pärast uuendatud konfiguratsiooni saamist. Võrguühenduseta kasutamine või ebaõnnestunud konfiguratsioonipäring võib teadet edasi lükata.
 
 ## Kontakt
 
